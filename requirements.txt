@@ -1,0 +1,5 @@
+streamlit
+streamlit-drawable-canvas
+numpy
+onnxruntime==1.19.2
+Pillow
