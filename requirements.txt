@@ -1,5 +1,5 @@
-streamlit==1.37.0
-streamlit-drawable-canvas==0.9.3
-onnxruntime==1.17.1
-numpy==1.26.4
-Pillow==10.4.0
+streamlit
+streamlit-drawable-canvas
+onnxruntime
+numpy
+Pillow
